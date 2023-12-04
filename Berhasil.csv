@@ -1,0 +1,51 @@
+source,target
+Tractor,John Deere
+Tractor,CNH Industial 
+Tractor,Kubota Cooperation
+Tractor,Horsch Maschinen GmbH
+Tractor,AGCO Cooperation
+Tractor,Arbos
+Tractor,Case IH
+Tractor,Kinze Manufacturing
+Tractor,New Holland
+Tractor,Deutz Fahr
+Tractor,POTTINGER Landtechnik GmbH
+Tractor,Dewulf Group
+Tractor,Kverneland Group
+Tractor,KUHN Group
+Harvester,John Deere
+Harvester,CNH Industial 
+Harvester,Deutz Fahr
+Harvester,New Holland
+Harvester,AGCO Cooperation
+Harvester,POTTINGER Landtechnik GmbH
+Harvester,Dewulf Group
+Harvester,Kverneland Group
+Sprayer,John Deere
+Sprayer,CNH Industial 
+Sprayer,Kubota Cooperation
+Sprayer,KUHN Group
+Sprayer,Horsch Maschinen GmbH
+Sprayer,POTTINGER Landtechnik GmbH
+Sprayer,Dewulf Group
+Sprayer,New Holland
+Seed Planter,Horsch Maschinen GmbH
+Seed Planter,POTTINGER Landtechnik GmbH
+Seed Planter,Kverneland Group
+Seed Planter,Dewulf Group
+Seed Planter,Arbos
+Seed Planter,John Deere
+Seed Planter,CNH Industial 
+Seed Planter,Kubota cooperation
+Seed Planter,New Holland
+Seed Planter,KUHN Group
+Seed Planter,AGCO Cooperation
+Seed Planter,Kinze Manufacturing
+Seed Planter,Case IH
+Disc Harrows,john Deere
+Disc Harrows,CNH Industial 
+Disc Harrows,Kubota cooperation
+Disc Harrows,New Holland
+Disc Harrows,Horsch Maschinen GmbH
+Disc Harrows,POTTINGER Landtechnik GmbH
+Disc Harrows,Dewulf Group
